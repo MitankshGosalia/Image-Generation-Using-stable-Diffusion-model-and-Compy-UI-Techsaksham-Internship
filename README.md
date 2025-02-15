@@ -1,1 +1,1 @@
-# Image-Generation-Using-stable-Diffusion-model-and-Compy-UI-Techsaksham-Intership
+# Image-Generation-Using-stable-Diffusion-model-and-Compy-UI-Techsaksham-Internship
